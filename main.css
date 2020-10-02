@@ -47,6 +47,7 @@ header input:focus {
 }
 
 main {
+    justify-content: center;
     flex: 1 1 100%;
     padding: 25px 25px 50px;
     display: flex;
